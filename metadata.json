@@ -1,0 +1,7 @@
+{
+  "name": "중1 수학 통계 대푯값 탐험대",
+  "description": "중학교 1학년 수학 통계 단원의 대푯값(평균, 중앙값, 최빈값)을 시각적이고 직관적으로 배우는 인터랙티브 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
